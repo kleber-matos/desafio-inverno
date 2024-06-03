@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-decoration: none;
+  list-style: none;
+}
+
+/* Estilização Header */
+header {
+  background-color: #4b93bf;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 15vh;
+}
+
+header div {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+header ul {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50vw;
+}
+
+header a {
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
