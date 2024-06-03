@@ -69,3 +69,23 @@ header a {
   flex-wrap: wrap;
   background-color: #e4eef1;
 }
+
+/* Footer */
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  background-color: #4b93bf;
+  padding: 1rem;
+}
+
+.rede-social {
+  display: flex;
+  align-items: center;
+}
+
+.informacoes {
+  text-align: center;
+}
