@@ -62,3 +62,10 @@ header a {
   width: 30vw;
   color: white;
 }
+
+.ursos-antartica {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  background-color: #e4eef1;
+}
