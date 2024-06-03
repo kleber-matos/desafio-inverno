@@ -43,8 +43,22 @@ header a {
 }
 
 .polo-antartico p {
-  color: #0f468c;
   font-weight: bolder;
   width: 40vw;
   font-size: 1.3rem;
+  color: #0f468c;
+}
+
+.casa-antartica {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #4b93bf;
+}
+
+.casa-antartica p {
+  font-weight: bold;
+  font-size: 1.5rem;
+  width: 30vw;
+  color: white;
 }
